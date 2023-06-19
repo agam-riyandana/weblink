@@ -3,7 +3,7 @@
   "short_name": "WEBSITE AGAM",
   "display": "standalone",
   "prefer_related_applications": false,
-  "start_url": ".",
+  "start_url": "https://www.agamriyandana.my.id",
   "scope": "/",
   "background_color": "#fff",
   "theme_color": "#6200ee",
